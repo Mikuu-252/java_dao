@@ -1,0 +1,12 @@
+Data na początku pusta, organizator ją wpisuje.
+
+Klient może kupić voucher i potem musi potwierdzić realizacje. (Kupiona, zadeklarowana, zrealizowana)
+
+Moze być jedna klasa odpalona kilka razy.
+
+Allow multiple instantion w config
+
+Wzorzec DAO / baza sqllite?
+Interface do CRUDA -> w nim brak implementacji
+
+ReadObject/WriteObject można całe obiekty do plików zapisywać
