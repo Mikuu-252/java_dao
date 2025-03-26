@@ -12,8 +12,7 @@ System umożliwia tworzenie, odczytywanie, aktualizację oraz usuwanie danych. D
 System symuluje proces obsługi voucherów na atrakcje, uwzględniając następujących aktorów:
 - **Klient:** przegląda ofertę, składa zamówienia, monitoruje status realizacji oraz deklaruje udział w wydarzeniach.
 - **Sprzedawca:** redaguje ofertę, zatwierdza zamówienia, przekazuje je do realizacji i aktualizuje ich status.
-- **Organizator:** zarządza zgłoszonymi zamówieniami, ustala terminy realizacji i zatwierdza listy uczestników.
-- 
+- **Organizator:** zarządza zgłoszonymi zamówieniami, ustala terminy realizacji i zatwierdza listy uczestników. 
 ---
 
 ## Project Description (EN)
